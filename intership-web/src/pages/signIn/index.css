@@ -1,0 +1,13 @@
+body{
+    background: #E2F9FF;        
+}
+.authBut, .inpPass, .inpLogin{
+    width: 100%;
+}
+.authField {    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}

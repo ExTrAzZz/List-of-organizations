@@ -1,0 +1,76 @@
+{
+  "user": {
+    "login": "user",
+    "password": "123"
+  },
+  "organization": [
+    {
+      "id": 1,
+      "name": "new2",
+      "address": "256",
+      "INN": "1256"
+    },
+    {
+      "id": 2,
+      "name": "2112",
+      "address": "4512",
+      "INN": "22121"
+    },
+    {
+      "id": 3,
+      "name": "new",
+      "address": "246",
+      "INN": 5123
+    },
+    {
+      "id": 4,
+      "name": "name",
+      "address": "121312",
+      "INN": 84612
+    }
+  ],
+  "division": [
+    {
+      "id": 1,
+      "id_organization": 1,
+      "name": "Division 1",
+      "phone": "123456"
+    },
+    {
+      "id": 6,
+      "id_organization": 2,
+      "name": "asdasha",
+      "phone": "+4353452"
+    }
+  ],
+  "employee": [
+    {
+      "id": 2,
+      "id_division": 2,
+      "FIO": "Unknown1 Unknown Unknown",
+      "address": "street 123",
+      "position": "Position 2"
+    },
+    {
+      "id": 3,
+      "id_division": 2,
+      "FIO": "ZXC ASD",
+      "address": "street qwe",
+      "position": "position 432"
+    },
+    {
+      "id": 5,
+      "id_division": 1,
+      "FIO": "wfqw",
+      "address": "fq",
+      "position": "1"
+    },
+    {
+      "id": 4,
+      "id_division": 1,
+      "FIO": "22",
+      "address": "25",
+      "position": "12"
+    }
+  ]
+}

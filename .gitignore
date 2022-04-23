@@ -1,9 +1,6 @@
+#/intership-api
+/web-finished
 /node_modules
+/dist
 /build
-/.git
-/.vscode
-/.idea
-*.log
-.eslintcache
-.env.local
-.env.*.local
+.DS_Store
